@@ -29,7 +29,7 @@ output_file = 'your_path/output.csv'
 main(input_file, output_file)
 ```
 
-## China Merchants Bank Credit Bill to MoneyWize
+## China Merchants Bank Credit Bill to MoneyWiz
 ### Function
 - convert the bill from China Merchants Bank Credit to MoneyWiz CSV format
 
