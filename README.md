@@ -1,4 +1,5 @@
-# Alipay Bill To MoneyWiz
+# Alipay Bill To MoneyWiz  
+- [中文文档](https://github.com/lxy1992/alipay_moneywiz_importer/blob/master/README_CN.md)
 ## Introduction
 This is a simple script to convert Alipay bill to MoneyWiz CSV format.
 
